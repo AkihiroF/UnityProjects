@@ -48,11 +48,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _Deph: 0
-    - _Depht: 1.28
+    - _Depht: 5.04
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Roughnes: 0.019
+    - _Roughnes: 0.043
     - _Straight: 0
-    - _Streaght: 1.58
+    - _Streaght: 0.98
     m_Colors: []
   m_BuildTextureStacks: []

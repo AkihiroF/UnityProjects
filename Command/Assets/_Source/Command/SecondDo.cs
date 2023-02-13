@@ -18,7 +18,7 @@ namespace _Source.Command
 
         public void UnDo()
         {
-            throw new System.NotImplementedException();
+            
         }
     }
 }
